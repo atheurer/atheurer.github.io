@@ -1,0 +1,9 @@
+cpu13-guest=9.994286
+cpu13-idle=64.382143
+cpu13-iowait=0.000000
+cpu13-irq=0.000000
+cpu13-nice=0.000000
+cpu13-softirq=1.135000
+cpu13-steal=0.000000
+cpu13-sys=16.326429
+cpu13-usr=8.160714

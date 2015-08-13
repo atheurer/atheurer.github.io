@@ -1,0 +1,9 @@
+cpu37-guest=2.669286
+cpu37-idle=91.960000
+cpu37-iowait=0.000000
+cpu37-irq=0.000000
+cpu37-nice=0.000000
+cpu37-softirq=0.072857
+cpu37-steal=0.000000
+cpu37-sys=3.412857
+cpu37-usr=1.885714

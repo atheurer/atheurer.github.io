@@ -1,0 +1,9 @@
+cpu16-guest=5.469286
+cpu16-idle=85.850714
+cpu16-iowait=0.000000
+cpu16-irq=0.000000
+cpu16-nice=0.000000
+cpu16-softirq=0.025000
+cpu16-steal=0.000000
+cpu16-sys=6.553571
+cpu16-usr=2.100000

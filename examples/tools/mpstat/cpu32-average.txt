@@ -1,0 +1,9 @@
+cpu32-guest=0.910000
+cpu32-idle=98.062143
+cpu32-iowait=0.000000
+cpu32-irq=0.000000
+cpu32-nice=0.000000
+cpu32-softirq=0.000000
+cpu32-steal=0.000000
+cpu32-sys=0.860714
+cpu32-usr=0.167143

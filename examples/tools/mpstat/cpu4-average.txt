@@ -1,0 +1,9 @@
+cpu4-guest=4.858571
+cpu4-idle=87.865000
+cpu4-iowait=0.000000
+cpu4-irq=0.000000
+cpu4-nice=0.000000
+cpu4-softirq=0.000000
+cpu4-steal=0.000000
+cpu4-sys=6.299286
+cpu4-usr=0.975714

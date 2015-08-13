@@ -1,0 +1,9 @@
+cpu26-guest=0.812857
+cpu26-idle=98.015714
+cpu26-iowait=0.000000
+cpu26-irq=0.000000
+cpu26-nice=0.000000
+cpu26-softirq=0.000000
+cpu26-steal=0.000000
+cpu26-sys=0.980000
+cpu26-usr=0.190000

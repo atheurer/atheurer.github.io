@@ -1,0 +1,9 @@
+cpu8-guest=0.591429
+cpu8-idle=47.755000
+cpu8-iowait=0.000000
+cpu8-irq=0.053571
+cpu8-nice=0.000000
+cpu8-softirq=10.068571
+cpu8-steal=0.000000
+cpu8-sys=19.865000
+cpu8-usr=21.667143

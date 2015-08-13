@@ -1,0 +1,9 @@
+cpu27-guest=1.618571
+cpu27-idle=91.736429
+cpu27-iowait=0.000000
+cpu27-irq=0.000000
+cpu27-nice=0.000000
+cpu27-softirq=0.072143
+cpu27-steal=0.000000
+cpu27-sys=4.372143
+cpu27-usr=2.199286

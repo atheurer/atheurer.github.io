@@ -1,0 +1,9 @@
+cpu15-guest=10.057143
+cpu15-idle=63.905000
+cpu15-iowait=0.000000
+cpu15-irq=0.000000
+cpu15-nice=0.000000
+cpu15-softirq=1.357143
+cpu15-steal=0.000000
+cpu15-sys=16.297857
+cpu15-usr=8.382143

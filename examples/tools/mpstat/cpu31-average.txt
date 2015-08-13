@@ -1,0 +1,9 @@
+cpu31-guest=1.618571
+cpu31-idle=93.010714
+cpu31-iowait=0.000000
+cpu31-irq=0.000000
+cpu31-nice=0.000000
+cpu31-softirq=0.048571
+cpu31-steal=0.000000
+cpu31-sys=3.340000
+cpu31-usr=1.982857

@@ -1,0 +1,9 @@
+cpu25-guest=2.046429
+cpu25-idle=91.972143
+cpu25-iowait=0.000000
+cpu25-irq=0.000000
+cpu25-nice=0.000000
+cpu25-softirq=0.047857
+cpu25-steal=0.000000
+cpu25-sys=3.475714
+cpu25-usr=2.455000

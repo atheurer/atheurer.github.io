@@ -1,0 +1,9 @@
+cpu30-guest=0.310714
+cpu30-idle=98.590714
+cpu30-iowait=0.000000
+cpu30-irq=0.000000
+cpu30-nice=0.000000
+cpu30-softirq=0.000000
+cpu30-steal=0.000000
+cpu30-sys=0.810714
+cpu30-usr=0.286429

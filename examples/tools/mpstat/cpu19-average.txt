@@ -1,0 +1,9 @@
+cpu19-guest=9.749286
+cpu19-idle=64.547143
+cpu19-iowait=0.000000
+cpu19-irq=0.000000
+cpu19-nice=0.000000
+cpu19-softirq=1.212857
+cpu19-steal=0.000000
+cpu19-sys=16.085714
+cpu19-usr=8.402857

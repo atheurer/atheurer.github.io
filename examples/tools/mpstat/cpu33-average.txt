@@ -1,0 +1,9 @@
+cpu33-guest=1.810000
+cpu33-idle=92.782857
+cpu33-iowait=0.000000
+cpu33-irq=0.000000
+cpu33-nice=0.000000
+cpu33-softirq=0.072143
+cpu33-steal=0.000000
+cpu33-sys=3.332143
+cpu33-usr=2.002857

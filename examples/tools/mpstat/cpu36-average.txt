@@ -1,0 +1,9 @@
+cpu36-guest=1.626429
+cpu36-idle=97.177857
+cpu36-iowait=0.000000
+cpu36-irq=0.000000
+cpu36-nice=0.000000
+cpu36-softirq=0.000000
+cpu36-steal=0.000000
+cpu36-sys=1.003571
+cpu36-usr=0.192143

@@ -1,0 +1,9 @@
+cpu35-guest=2.850714
+cpu35-idle=91.573571
+cpu35-iowait=0.000000
+cpu35-irq=0.000000
+cpu35-nice=0.000000
+cpu35-softirq=0.072857
+cpu35-steal=0.000000
+cpu35-sys=3.498571
+cpu35-usr=2.004286

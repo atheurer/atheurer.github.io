@@ -1,0 +1,9 @@
+cpu11-guest=9.964286
+cpu11-idle=63.754286
+cpu11-iowait=0.000000
+cpu11-irq=0.000000
+cpu11-nice=0.000000
+cpu11-softirq=1.232143
+cpu11-steal=0.000000
+cpu11-sys=16.419286
+cpu11-usr=8.627857

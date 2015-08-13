@@ -1,0 +1,9 @@
+cpu20-guest=1.080000
+cpu20-idle=97.747857
+cpu20-iowait=0.000000
+cpu20-irq=0.000000
+cpu20-nice=0.000000
+cpu20-softirq=0.000000
+cpu20-steal=0.000000
+cpu20-sys=0.981429
+cpu20-usr=0.189286

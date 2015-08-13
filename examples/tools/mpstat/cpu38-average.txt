@@ -1,0 +1,9 @@
+cpu38-guest=3.578571
+cpu38-idle=95.295000
+cpu38-iowait=0.000000
+cpu38-irq=0.000000
+cpu38-nice=0.000000
+cpu38-softirq=0.000000
+cpu38-steal=0.000000
+cpu38-sys=0.932857
+cpu38-usr=0.189286

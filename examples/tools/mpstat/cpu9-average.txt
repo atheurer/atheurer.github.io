@@ -1,0 +1,9 @@
+cpu9-guest=11.130714
+cpu9-idle=63.125000
+cpu9-iowait=0.000000
+cpu9-irq=0.000000
+cpu9-nice=0.000000
+cpu9-softirq=1.187857
+cpu9-steal=0.000000
+cpu9-sys=16.377143
+cpu9-usr=8.177143

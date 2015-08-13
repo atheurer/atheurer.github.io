@@ -1,0 +1,9 @@
+cpu34-guest=0.477857
+cpu34-idle=98.470000
+cpu34-iowait=0.000000
+cpu34-irq=0.000000
+cpu34-nice=0.000000
+cpu34-softirq=0.000000
+cpu34-steal=0.000000
+cpu34-sys=0.859286
+cpu34-usr=0.189286

@@ -1,0 +1,9 @@
+cpu18-guest=4.803571
+cpu18-idle=87.142857
+cpu18-iowait=0.024286
+cpu18-irq=0.000000
+cpu18-nice=0.000000
+cpu18-softirq=0.024286
+cpu18-steal=0.000000
+cpu18-sys=6.413571
+cpu18-usr=1.591429

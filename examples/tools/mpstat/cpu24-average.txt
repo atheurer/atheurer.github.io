@@ -1,0 +1,9 @@
+cpu24-guest=0.264286
+cpu24-idle=98.377143
+cpu24-iowait=0.000000
+cpu24-irq=0.000000
+cpu24-nice=0.000000
+cpu24-softirq=0.000000
+cpu24-steal=0.000000
+cpu24-sys=1.075714
+cpu24-usr=0.284286

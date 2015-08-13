@@ -1,0 +1,9 @@
+cpu28-guest=0.384286
+cpu28-idle=98.755000
+cpu28-iowait=0.000000
+cpu28-irq=0.000000
+cpu28-nice=0.000000
+cpu28-softirq=0.023571
+cpu28-steal=0.000000
+cpu28-sys=0.667857
+cpu28-usr=0.166429

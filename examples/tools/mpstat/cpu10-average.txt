@@ -1,0 +1,9 @@
+cpu10-guest=2.122143
+cpu10-idle=77.395714
+cpu10-iowait=0.024286
+cpu10-irq=0.000000
+cpu10-nice=0.000000
+cpu10-softirq=0.048571
+cpu10-steal=0.000000
+cpu10-sys=11.368571
+cpu10-usr=9.039286

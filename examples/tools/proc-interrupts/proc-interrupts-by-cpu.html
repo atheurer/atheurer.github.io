@@ -1,0 +1,457 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="/static/css/v0.2/nv.d3.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/static/css/v0.2/pbench_utils.css" rel="stylesheet" type="text/css" media="all">
+    <script src="/static/js/v0.2/function-bind.js"></script>
+    <script src="/static/js/v0.2/fastdom.js"></script>
+    <script src="/static/js/v0.2/d3.js"></script>
+    <script src="/static/js/v0.2/nv.d3.js"></script>
+    <script src="/static/js/v0.2/saveSvgAsPng.js"></script>
+    <script src="/static/js/v0.2/pbench_utils.js"></script>
+  </head>
+  <body class="with-3d-shadow with-transitions">
+    <h2 class="page-header">proc-interrupts - proc-interrupts-by-cpu</h2>
+    <div class="chart">
+      <h3 class="chart-header">CPU_000
+        <button id="save1">Save as Image</button>
+        <div id="svgdataurl1"></div>
+      </h3>
+      <svg id="chart1"></svg>
+      <canvas id="canvas1" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 1, "proc-interrupts-by-cpu_CPU_000", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_001
+        <button id="save2">Save as Image</button>
+        <div id="svgdataurl2"></div>
+      </h3>
+      <svg id="chart2"></svg>
+      <canvas id="canvas2" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 2, "proc-interrupts-by-cpu_CPU_001", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_002
+        <button id="save3">Save as Image</button>
+        <div id="svgdataurl3"></div>
+      </h3>
+      <svg id="chart3"></svg>
+      <canvas id="canvas3" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 3, "proc-interrupts-by-cpu_CPU_002", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_003
+        <button id="save4">Save as Image</button>
+        <div id="svgdataurl4"></div>
+      </h3>
+      <svg id="chart4"></svg>
+      <canvas id="canvas4" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 4, "proc-interrupts-by-cpu_CPU_003", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_004
+        <button id="save5">Save as Image</button>
+        <div id="svgdataurl5"></div>
+      </h3>
+      <svg id="chart5"></svg>
+      <canvas id="canvas5" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 5, "proc-interrupts-by-cpu_CPU_004", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_005
+        <button id="save6">Save as Image</button>
+        <div id="svgdataurl6"></div>
+      </h3>
+      <svg id="chart6"></svg>
+      <canvas id="canvas6" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 6, "proc-interrupts-by-cpu_CPU_005", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_006
+        <button id="save7">Save as Image</button>
+        <div id="svgdataurl7"></div>
+      </h3>
+      <svg id="chart7"></svg>
+      <canvas id="canvas7" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 7, "proc-interrupts-by-cpu_CPU_006", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_007
+        <button id="save8">Save as Image</button>
+        <div id="svgdataurl8"></div>
+      </h3>
+      <svg id="chart8"></svg>
+      <canvas id="canvas8" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 8, "proc-interrupts-by-cpu_CPU_007", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_008
+        <button id="save9">Save as Image</button>
+        <div id="svgdataurl9"></div>
+      </h3>
+      <svg id="chart9"></svg>
+      <canvas id="canvas9" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 9, "proc-interrupts-by-cpu_CPU_008", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_009
+        <button id="save10">Save as Image</button>
+        <div id="svgdataurl10"></div>
+      </h3>
+      <svg id="chart10"></svg>
+      <canvas id="canvas10" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 10, "proc-interrupts-by-cpu_CPU_009", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_010
+        <button id="save11">Save as Image</button>
+        <div id="svgdataurl11"></div>
+      </h3>
+      <svg id="chart11"></svg>
+      <canvas id="canvas11" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 11, "proc-interrupts-by-cpu_CPU_010", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_011
+        <button id="save12">Save as Image</button>
+        <div id="svgdataurl12"></div>
+      </h3>
+      <svg id="chart12"></svg>
+      <canvas id="canvas12" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 12, "proc-interrupts-by-cpu_CPU_011", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_012
+        <button id="save13">Save as Image</button>
+        <div id="svgdataurl13"></div>
+      </h3>
+      <svg id="chart13"></svg>
+      <canvas id="canvas13" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 13, "proc-interrupts-by-cpu_CPU_012", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_013
+        <button id="save14">Save as Image</button>
+        <div id="svgdataurl14"></div>
+      </h3>
+      <svg id="chart14"></svg>
+      <canvas id="canvas14" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 14, "proc-interrupts-by-cpu_CPU_013", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_014
+        <button id="save15">Save as Image</button>
+        <div id="svgdataurl15"></div>
+      </h3>
+      <svg id="chart15"></svg>
+      <canvas id="canvas15" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 15, "proc-interrupts-by-cpu_CPU_014", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_015
+        <button id="save16">Save as Image</button>
+        <div id="svgdataurl16"></div>
+      </h3>
+      <svg id="chart16"></svg>
+      <canvas id="canvas16" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 16, "proc-interrupts-by-cpu_CPU_015", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_016
+        <button id="save17">Save as Image</button>
+        <div id="svgdataurl17"></div>
+      </h3>
+      <svg id="chart17"></svg>
+      <canvas id="canvas17" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 17, "proc-interrupts-by-cpu_CPU_016", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_017
+        <button id="save18">Save as Image</button>
+        <div id="svgdataurl18"></div>
+      </h3>
+      <svg id="chart18"></svg>
+      <canvas id="canvas18" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 18, "proc-interrupts-by-cpu_CPU_017", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_018
+        <button id="save19">Save as Image</button>
+        <div id="svgdataurl19"></div>
+      </h3>
+      <svg id="chart19"></svg>
+      <canvas id="canvas19" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 19, "proc-interrupts-by-cpu_CPU_018", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_019
+        <button id="save20">Save as Image</button>
+        <div id="svgdataurl20"></div>
+      </h3>
+      <svg id="chart20"></svg>
+      <canvas id="canvas20" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 20, "proc-interrupts-by-cpu_CPU_019", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_020
+        <button id="save21">Save as Image</button>
+        <div id="svgdataurl21"></div>
+      </h3>
+      <svg id="chart21"></svg>
+      <canvas id="canvas21" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 21, "proc-interrupts-by-cpu_CPU_020", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_021
+        <button id="save22">Save as Image</button>
+        <div id="svgdataurl22"></div>
+      </h3>
+      <svg id="chart22"></svg>
+      <canvas id="canvas22" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 22, "proc-interrupts-by-cpu_CPU_021", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_022
+        <button id="save23">Save as Image</button>
+        <div id="svgdataurl23"></div>
+      </h3>
+      <svg id="chart23"></svg>
+      <canvas id="canvas23" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 23, "proc-interrupts-by-cpu_CPU_022", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_023
+        <button id="save24">Save as Image</button>
+        <div id="svgdataurl24"></div>
+      </h3>
+      <svg id="chart24"></svg>
+      <canvas id="canvas24" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 24, "proc-interrupts-by-cpu_CPU_023", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_024
+        <button id="save25">Save as Image</button>
+        <div id="svgdataurl25"></div>
+      </h3>
+      <svg id="chart25"></svg>
+      <canvas id="canvas25" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 25, "proc-interrupts-by-cpu_CPU_024", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_025
+        <button id="save26">Save as Image</button>
+        <div id="svgdataurl26"></div>
+      </h3>
+      <svg id="chart26"></svg>
+      <canvas id="canvas26" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 26, "proc-interrupts-by-cpu_CPU_025", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_026
+        <button id="save27">Save as Image</button>
+        <div id="svgdataurl27"></div>
+      </h3>
+      <svg id="chart27"></svg>
+      <canvas id="canvas27" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 27, "proc-interrupts-by-cpu_CPU_026", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_027
+        <button id="save28">Save as Image</button>
+        <div id="svgdataurl28"></div>
+      </h3>
+      <svg id="chart28"></svg>
+      <canvas id="canvas28" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 28, "proc-interrupts-by-cpu_CPU_027", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_028
+        <button id="save29">Save as Image</button>
+        <div id="svgdataurl29"></div>
+      </h3>
+      <svg id="chart29"></svg>
+      <canvas id="canvas29" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 29, "proc-interrupts-by-cpu_CPU_028", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_029
+        <button id="save30">Save as Image</button>
+        <div id="svgdataurl30"></div>
+      </h3>
+      <svg id="chart30"></svg>
+      <canvas id="canvas30" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 30, "proc-interrupts-by-cpu_CPU_029", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_030
+        <button id="save31">Save as Image</button>
+        <div id="svgdataurl31"></div>
+      </h3>
+      <svg id="chart31"></svg>
+      <canvas id="canvas31" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 31, "proc-interrupts-by-cpu_CPU_030", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_031
+        <button id="save32">Save as Image</button>
+        <div id="svgdataurl32"></div>
+      </h3>
+      <svg id="chart32"></svg>
+      <canvas id="canvas32" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 32, "proc-interrupts-by-cpu_CPU_031", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_032
+        <button id="save33">Save as Image</button>
+        <div id="svgdataurl33"></div>
+      </h3>
+      <svg id="chart33"></svg>
+      <canvas id="canvas33" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 33, "proc-interrupts-by-cpu_CPU_032", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_033
+        <button id="save34">Save as Image</button>
+        <div id="svgdataurl34"></div>
+      </h3>
+      <svg id="chart34"></svg>
+      <canvas id="canvas34" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 34, "proc-interrupts-by-cpu_CPU_033", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_034
+        <button id="save35">Save as Image</button>
+        <div id="svgdataurl35"></div>
+      </h3>
+      <svg id="chart35"></svg>
+      <canvas id="canvas35" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 35, "proc-interrupts-by-cpu_CPU_034", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_035
+        <button id="save36">Save as Image</button>
+        <div id="svgdataurl36"></div>
+      </h3>
+      <svg id="chart36"></svg>
+      <canvas id="canvas36" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 36, "proc-interrupts-by-cpu_CPU_035", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_036
+        <button id="save37">Save as Image</button>
+        <div id="svgdataurl37"></div>
+      </h3>
+      <svg id="chart37"></svg>
+      <canvas id="canvas37" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 37, "proc-interrupts-by-cpu_CPU_036", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_037
+        <button id="save38">Save as Image</button>
+        <div id="svgdataurl38"></div>
+      </h3>
+      <svg id="chart38"></svg>
+      <canvas id="canvas38" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 38, "proc-interrupts-by-cpu_CPU_037", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_038
+        <button id="save39">Save as Image</button>
+        <div id="svgdataurl39"></div>
+      </h3>
+      <svg id="chart39"></svg>
+      <canvas id="canvas39" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 39, "proc-interrupts-by-cpu_CPU_038", 100.00);
+      </script>
+    </div>
+    <div class="chart">
+      <h3 class="chart-header">CPU_039
+        <button id="save40">Save as Image</button>
+        <div id="svgdataurl40"></div>
+      </h3>
+      <svg id="chart40"></svg>
+      <canvas id="canvas40" style="display:none"></canvas>
+      <script>
+        constructChart("stackedAreaChart", 40, "proc-interrupts-by-cpu_CPU_039", 100.00);
+      </script>
+    </div>
+  </body>
+</html>

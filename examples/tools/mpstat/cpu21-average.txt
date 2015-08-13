@@ -1,0 +1,9 @@
+cpu21-guest=1.546429
+cpu21-idle=93.117857
+cpu21-iowait=0.000000
+cpu21-irq=0.000000
+cpu21-nice=0.000000
+cpu21-softirq=0.048571
+cpu21-steal=0.000000
+cpu21-sys=3.404286
+cpu21-usr=1.882857

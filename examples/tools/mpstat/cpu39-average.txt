@@ -1,0 +1,9 @@
+cpu39-guest=3.812143
+cpu39-idle=90.593571
+cpu39-iowait=0.000000
+cpu39-irq=0.000000
+cpu39-nice=0.000000
+cpu39-softirq=0.048571
+cpu39-steal=0.000000
+cpu39-sys=3.545000
+cpu39-usr=1.999286

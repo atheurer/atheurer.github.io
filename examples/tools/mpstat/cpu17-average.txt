@@ -1,0 +1,9 @@
+cpu17-guest=7.583571
+cpu17-idle=66.762857
+cpu17-iowait=0.000000
+cpu17-irq=0.000000
+cpu17-nice=0.000000
+cpu17-softirq=1.261429
+cpu17-steal=0.000000
+cpu17-sys=16.321429
+cpu17-usr=8.070714

@@ -1,0 +1,9 @@
+cpu29-guest=1.521429
+cpu29-idle=92.870714
+cpu29-iowait=0.000000
+cpu29-irq=0.000000
+cpu29-nice=0.000000
+cpu29-softirq=0.048571
+cpu29-steal=0.000000
+cpu29-sys=3.578571
+cpu29-usr=1.981429
